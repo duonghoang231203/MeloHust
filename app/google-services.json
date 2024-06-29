@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531495738655",
+    "project_id": "melohust",
+    "storage_bucket": "melohust.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531495738655:android:80a67a8ac505a7899f642a",
+        "android_client_info": {
+          "package_name": "com.example.melohust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZXKoQPu0wOqDfd6BX54OoEFvNt7H27Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
